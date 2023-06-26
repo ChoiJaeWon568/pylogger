@@ -1,5 +1,12 @@
 # pylogger
-Pretty Logger for Python
+Pretty Logger for Python from repository at "https://github.com/cueo/pylogger"
+
+# Download
+```
+curl https://raw.githubusercontent.com/ChoiJaeWon568/pylogger/main/log.py -o utils/log.py
+
+mkdir -p utils; curl https://raw.githubusercontent.com/ChoiJaeWon568/pylogger/main/log.py -o utils/log.py
+```
 
 # Usage
 ```python
